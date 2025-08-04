@@ -17,7 +17,9 @@ The database consists of the following core entities:
 6. ProjectAssignment (Mapping Employee to Project)
 
 Schema Creation Script
+
 The Query file contains all the necessary SQL commands to:
+
 •	Create the IT_Employee database
 •	Define all required tables with primary and foreign key constraints
 •	Establish many-to-many relationships via junction tables
