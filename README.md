@@ -32,6 +32,7 @@ ER Diagram
 The ER diagram visually represents the schema and its relationships. It includes
 
 •	One-to-Many: **Department → Employees
+
 •	Many-to-Many: **Employees ↔ Skills, Employees ↔ Projects
 
 Deliverables
