@@ -36,8 +36,8 @@ Deliverables
 
 How to Run
 1. Open Microsoft SQL Server Management Studio (SSMS)
-2. Execute the script from `schema.sql` to set up the schema.
-3. (Optional) Use “Database Diagrams” in SSMS to recreate or view the ER diagram.
+2. Execute the script from Query File to set up the schema.
+3. Use “Database Diagrams” in SSMS to recreate or view the ER diagram.
 
 Notes
 •	All foreign key constraints are enforced to maintain referential integrity.
