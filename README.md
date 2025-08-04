@@ -2,9 +2,11 @@
 
 Objective
 This project demonstrates how to create a structured relational database for managing IT employees, their departments, skills, and project assignments using Microsoft SQL Server.
+
 Tools Used
 Microsoft SQL Server Management Studio (SSMS)
 ER Diagram Generator  (e.g., built-in in SSMS)
+
 Database Design - Entities & Relationships
 The database consists of the following core entities:
 1. Department
@@ -19,12 +21,13 @@ The Query file contains all the necessary SQL commands to:
 •	Create the IT_Employee database
 •	Define all required tables with primary and foreign key constraints
 •	Establish many-to-many relationships via junction tables
+
 You can find the SQL script in the Query file or copy it from the source if working interactively.
+
 ER Diagram
 The ER diagram visually represents the schema and its relationships. It includes:
 •	One-to-Many: **Department → Employees
 •	Many-to-Many: **Employees ↔ Skills, Employees ↔ Projects
-
 
 Deliverables
 1.	SQL Script: Query (Creates database and tables)
