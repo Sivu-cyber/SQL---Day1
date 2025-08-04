@@ -1,4 +1,5 @@
 **IT Employees Database Setup and Schema Design**
+
 Objective
 This project demonstrates how to create a structured relational database for managing IT employees, their departments, skills, and project assignments using Microsoft SQL Server.
 Tools Used
